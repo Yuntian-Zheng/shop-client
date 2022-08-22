@@ -4,7 +4,7 @@
 As a User I would like to: 
  - browser for items
  - sell items
- - -update items
+ - update items
  - add items to cart
  - update cart
  - write a review
