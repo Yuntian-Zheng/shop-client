@@ -4,6 +4,7 @@ This will be a website similar to craig's list, where users can register as sell
 As a User I would like to: 
  - sign up as a seller or buyer
  - browser for items
+ - create items
  - sell items
  - update items
  - add items to cart
